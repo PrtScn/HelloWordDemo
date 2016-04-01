@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hllo world");
+            Console.WriteLine("Hello world");
         }
     }
 }
