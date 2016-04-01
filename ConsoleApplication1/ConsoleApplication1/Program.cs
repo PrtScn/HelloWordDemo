@@ -12,5 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Ho wd");
         }
+
+        private void newFunctionality() { }
     }
 }
